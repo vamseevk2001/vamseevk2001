@@ -1,5 +1,5 @@
 - 👋 Hi, I’m V Vamsee Krishna
--  I am currently pursuing a degree in Mtech Integrated Software Engineering from VIT, Vellore
+-  I am currently pursuing Integrated Mtech in Software Engineering from VIT, Vellore
 - 🌱 I’m currently learning Android development and DSA
 - 📫 How to reach me :
     - Gmail : vamseevk2001@gmail.com 
